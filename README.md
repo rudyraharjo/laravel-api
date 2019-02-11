@@ -1,5 +1,5 @@
 # laravel-api
-laravel api phonebooj with auth passport
+laravel api phonebook with auth passport
 
 Composer install or update
 
